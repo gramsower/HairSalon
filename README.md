@@ -21,6 +21,7 @@ Created for Epicodus Code Review #10
 - Add and delete stylists
 - Add and delete clients
 - Assign clients to a specific stylist
+- Add details to an individual client
 - View a list of all stylists
 - View a list of all clients
 - View a list of all clients belonging to a particular sylist
