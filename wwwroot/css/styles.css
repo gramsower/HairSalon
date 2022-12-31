@@ -14,7 +14,7 @@ ul.navbar {
   top: 0;
   width: 100%;
   overflow: hidden;
-  background-color: #81817Dff;
+  background-color: #C79A7Eff;
 }
 
 li.navbar {
@@ -31,7 +31,7 @@ li.navbar a {
 }
 
 li.navbar a:hover {
-  background-color: #C79A7Eff;
+  background-color: #EE802Aff;;
 }
 
 .active {
@@ -45,30 +45,30 @@ div {
 
 h1 {
   text-align: center;
-  color: #fef9f3;
+  color: #EE802Aff;
 }
 
 h4 {
 text-align: center;
-color: #fef9f3;
+color: #81817Dff;
 }
 
 h3 {
   text-align: center;
-  color: #fef9f3;
+  color: #81817Dff;
 }
 
 h2 {
   text-align: center;
-  color: #fef9f3;
+  color: #81817Dff;
   }
 
   .labelcolor
   {
-    color: #fef9f3;
+    color: #575D60ff;
   }
 
   li
   {
-    color: #fef9f3;
+    color: #575D60ff;
   }
